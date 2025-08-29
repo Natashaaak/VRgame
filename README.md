@@ -17,10 +17,20 @@ Now that the lion is finally sleeping peacefully in its cage, you can peek behin
 ### Task 3: Turnstiles
 You are near the entrance, yaay! But wait, the turnstiles appear to be closed and stuck. You will need to find a ticket to get through!
 
+## VR Features
+
+- **Teleportation** - Move around the circus environment
+- **Object Interaction** - Grab and manipulate items
+- **Knife Throwing** - Throw knives at targets
+- **Kitchen Mechanics** - Open fridge and cut meat
+- **Control Panel** - Manipulate joysticks and press buttons
+- **Physical Movement** - Climb ladders and balance on ropes
+- **Controller Tracking** - Precise hand and controller positioning
+
 ## Media
 
 ### Video Demo
-![Video Demo](video.mp4)
+[Watch Gameplay Video](video.mp4) *(67MB - Click to download)*
 
 ### Screenshots
 
