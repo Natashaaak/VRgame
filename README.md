@@ -19,11 +19,21 @@ You are near the entrance, yaay! But wait, the turnstiles appear to be closed an
 
 ## Media
 
-- **Video Demo**: [video.mp4](video.mp4)
-- **Screenshots**: 
-  - Task 1: [screenshot01.png](screenshot01.png)
-  - Task 2: [screenshot02.png](screenshot02.png), [screenshot03.png](screenshot03.png), [screenshot04.png](screenshot04.png)
-  - Additional: [screenshot05.png](screenshot05.png)
+### Video Demo
+![Video Demo](video.mp4)
+
+### Screenshots
+
+#### Task 1: Lion
+![Task 1 - Lion](screenshot01.png)
+
+#### Task 2: Acrobatics
+![Task 2 - Acrobatics Setup](screenshot02.png)
+![Task 2 - Acrobatics Construction](screenshot03.png)
+![Task 2 - Rope Crossing](screenshot04.png)
+
+#### Additional Screenshots
+![Additional Gameplay](screenshot05.png)
 
 ## Documentation
 
