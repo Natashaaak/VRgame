@@ -30,7 +30,7 @@ You are near the entrance, yaay! But wait, the turnstiles appear to be closed an
 ## Media
 
 ### Video Demo
-[Watch Gameplay Video](video.mp4) *(67MB - Click to download)*
+[Watch Gameplay Video](video.mp4) 
 
 ### Screenshots
 
